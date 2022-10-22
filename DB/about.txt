@@ -1,0 +1,1 @@
+--CREAR CREAR UNA BASE DE DATOS LLAMADA 'app' despues agregar las tablas
